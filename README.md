@@ -16,25 +16,12 @@
 ## 목차
 ### [1. 서비스 개요](#서비스-개요)
 ### [2. 서비스 소개](#서비스-소개)
-- 일반 로그인
 - 게임 캐릭터 선택
 - 전투페이지 구현
 - 레벨업과 상황에 맞는 스탯을 찍자
 - 상점에서 다양한 유물들을 확인하자
 ### [4. 기술 스택](#기술-스택)
-- Frontend
-- Backend
-- CI/CD
 ### [6. 프로젝트 산출물](#프로젝트-산출물)
-<<<<<<< HEAD
-- [서비스 개요](#서비스-개요)
-- [서비스 소개](#서비스-소개)
-- [기술 스택](#기술-스택)
-- [프로젝트 산출물](#프로젝트-산출물)
-    - [데이터베이스](#데이터베이스)
-    - [시스템 아키텍처](#시스템-아키텍처)
->>>>>>> 1ec90d6f8e872447fa4abf1bdb2c583b2d896d4a
----
 <br>
 
 
@@ -51,10 +38,6 @@
 
 
 # 서비스 소개
-✅ 일반 로그인
-일반 로그인을 통하여 간편하게 자신의 아이디를 생성할 수 있습니다.
-
-
 ✅ 게임 캐릭터 선택
 
 처음 시작 시 3명의 캐릭터를 뽑아 전쟁에 참여하세요!  
@@ -66,12 +49,15 @@
 전쟁을 통하여 악당 무리들을 처치하세요!  
 총 3개의 스킬이 있으며 적 또한 여러 공격과 너프를 하기 때문에 신중하게 사용하세요!
 
+</br>
 <img src="https://github.com/Diligent0924/SevenDeadlySins/assets/62194486/98a78774-d94d-4684-8c5e-2d5817ff748b"  width="600" height="400"/>
 
 <img src="https://github.com/Diligent0924/SevenDeadlySins/assets/62194486/8ad40488-f206-4c0d-aebb-f9cdb5db22dd"  width="600" height="400"/>
 
 ✅ 레벨업과 상황에 맞는 스탯을 찍자!
 전쟁이 끝나면 추가 스탯을 찍을 수 있으나 캐릭터만의 히든 특성들이 있기에 잘 판단해서 찍어보세요!
+
+</br>
 <img src="https://github.com/Diligent0924/SevenDeadlySins/assets/62194486/4da62522-db79-48c9-8b3f-7c17e3f37a9a"  width="600" height="400"/>
 
 
@@ -80,6 +66,7 @@
 
 유물은 나의 현재 캐릭터의 스탯을 증가시키니 잘 판단해서 선택하세요!
 
+</br>
 <img src="https://github.com/Diligent0924/SevenDeadlySins/assets/62194486/a7edf472-6fc6-48a6-b514-1525e54f8cb6"  width="600" height="400"/>
 
 <img src="https://github.com/Diligent0924/SevenDeadlySins/assets/62194486/fb1dd43f-5107-47f3-be45-f2002d21cece"  width="600" height="400"/>
