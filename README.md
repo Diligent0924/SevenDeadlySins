@@ -26,9 +26,12 @@
 - [Backend](#backend)
 - [CI/CD](#cicd)
 ### [6. 프로젝트 산출물](#프로젝트-산출물)
-- [데이터베이스](#데이터베이스)
-- [시스템 아키텍처](#시스템-아키텍처)
-- [Figma](#figma)
+- [서비스 개요](#서비스-개요)
+- [서비스 소개](#서비스-소개)
+- [기술 스택](#기술-스택)
+- [프로젝트 산출물](#프로젝트-산출물)
+    - [데이터베이스](#데이터베이스)
+    - [시스템 아키텍처](#시스템-아키텍처)
 ---
 <br>
 
@@ -54,35 +57,33 @@
 
 처음 시작 시 3명의 캐릭터를 뽑아 전쟁에 참여하세요!  
 각각의 캐릭터는 특수한 능력들이 있으며 능력치에 따라 캐릭터의 방향을 결정할 수 있습니다!
+<img src="https://github.com/Diligent0924/SevenDeadlySins/assets/62194486/18802566-afd1-4fdc-9716-46871149a9e2"  width="600" height="400"/>
 
 ✅ 전투 페이지 구현
 
 전쟁을 통하여 악당 무리들을 처치하세요!  
 총 3개의 스킬이 있으며 적 또한 여러 공격과 너프를 하기 때문에 신중하게 사용하세요!
 
+<img src="https://github.com/Diligent0924/SevenDeadlySins/assets/62194486/98a78774-d94d-4684-8c5e-2d5817ff748b"  width="600" height="400"/>
+
+<img src="https://github.com/Diligent0924/SevenDeadlySins/assets/62194486/8ad40488-f206-4c0d-aebb-f9cdb5db22dd"  width="600" height="400"/>
+
 ✅ 레벨업과 상황에 맞는 스탯을 찍자!
 전쟁이 끝나면 추가 스탯을 찍을 수 있으나 캐릭터만의 히든 특성들이 있기에 잘 판단해서 찍어보세요!
+<img src="https://github.com/Diligent0924/SevenDeadlySins/assets/62194486/4da62522-db79-48c9-8b3f-7c17e3f37a9a"  width="600" height="400"/>
+
 
 ✅ 상점에서 다양한 유물들을 확인하자!
-중간중간 상점페이지를 통해 캐릭터 추가, 회복, 유물을 선택할 수 있습니다.  
+중간중간 상점페이지를 통해 캐릭터 추가, 회복, 유물을 선택할 수 있습니다. 
 
 유물은 나의 현재 캐릭터의 스탯을 증가시키니 잘 판단해서 선택하세요!
 
+<img src="https://github.com/Diligent0924/SevenDeadlySins/assets/62194486/a7edf472-6fc6-48a6-b514-1525e54f8cb6"  width="600" height="400"/>
+
+<img src="https://github.com/Diligent0924/SevenDeadlySins/assets/62194486/fb1dd43f-5107-47f3-be45-f2002d21cece"  width="600" height="400"/>
+
 # 기술 스택
-## Frontend
-- React
-- Recoil
-
-
-## Backend
-- JPA
-- Django
-
-## CI/CD
-- Docker
-- Nginx
-- Jenkins
-- AWS(EC2)
+![CICD](https://github.com/Diligent0924/SevenDeadlySins/assets/62194486/26a97f54-8adf-43e8-a9a9-994f2de56e9e)
 
 
 # 프로젝트 산출물
